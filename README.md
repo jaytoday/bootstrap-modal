@@ -1,6 +1,6 @@
 Bootstrap Modal v2.0
 =============
-
+testing
 See live demo [here](http://jschr.github.com/bootstrap-modal/).
 
 Extends Bootstrap's native modals to provide additional functionality. Introduces a **ModalManager** class that operates behind the scenes to handle multiple modals by listening on their events. 
